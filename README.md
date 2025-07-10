@@ -35,8 +35,11 @@ Atuo como consultor e freelancer para **empresas** e **agências**, oferecendo s
 ## 💼 Contato
 
 📧 Email: [orenanmisse@gmail.com](mailto:orenanmisse@gmail.com)  | [Renan Missé - Kooble ](mailto:renanmisse@kooble.com.br) 
+
 📱 WhatsApp: [Clique aqui para conversar](https://wa.me/5567992329612)  
+
 🔗 LinkedIn: [linkedin.com/in/renanmisse](https://www.linkedin.com/in/renanmisse/)  
+
 🌐 Site: [https://renanmisse.github.io](https://renanmisse.github.io)
 
 ---
