@@ -29,7 +29,7 @@ Ajudo agências e empresas a corrigirem problemas complexos e melhorarem sua pre
 - **SEO para Conteúdo e Link Building (Publisher)**  
   - Produção e otimização de artigos e conteúdos estratégicos para blogs e portais.  
   - Planejamento e execução de campanhas de link building para fortalecimento da autoridade do domínio.  
-  - Gestão editorial e curadoria de conteúdos para portais digitais como o [Divulga Oeste](https://divulgaeste.com.br).  
+  - Gestão editorial e curadoria de conteúdos para portais digitais como o [HUW](https://huw.com.br).  
   - Análise de concorrência e oportunidades para posicionamento orgânico em nichos competitivos.  
   - Otimização de textos para motores de busca com foco em conversão e engajamento.
 
@@ -160,7 +160,9 @@ Atuo como consultor e freelancer para **empresas** e **agências**, oferecendo s
 
 🌐 Site: [https://renanmisse.github.io](https://renanmisse.github.io)
 
-🌐 Portal de Publisher: [https://divulgaeste.com.br](https://divulgaeste.com.br)
+🌐 Portal de Publisher: [https://huw.com.br](https://huw.com.br)
+
+📍 MapsWeb: [https://mapsweb.com.br](https://mapsweb.com.br)
 
 ---
 
