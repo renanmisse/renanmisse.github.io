@@ -94,6 +94,26 @@ Atuo como consultor e freelancer para **empresas** e **agências**, oferecendo s
 
 ---
 
+### 3. MapsWeb — Plataforma de Busca Local em Desenvolvimento
+
+**Projeto próprio:** [mapsweb.com.br](https://mapsweb.com.br)  
+Desenvolvimento de uma plataforma de busca e guia comercial, com foco inicial em Três Lagoas/MS e estrutura planejada para expansão a outras cidades.
+
+**Objetivo:**  
+Conectar pessoas a empresas e serviços locais, ampliando a presença digital dos negócios e facilitando o contato com potenciais clientes.
+
+**Trabalho em desenvolvimento:**  
+- Organização de fichas de empresas, categorias e páginas locais  
+- Estruturação de URLs por estado, cidade e empresa  
+- Aplicação de SEO técnico e local, com atenção a rastreamento, sitemap e indexação  
+- Desenvolvimento de conteúdo voltado às buscas locais  
+- Evolução da plataforma para facilitar a descoberta de negócios e o contato pelo WhatsApp
+
+**Status atual:**  
+Projeto em desenvolvimento e evolução contínua. O case será atualizado com métricas verificadas de indexação, tráfego e contatos gerados conforme os resultados forem consolidados.
+
+---
+
 ## Empresas Atendidas por Nicho e Cidade
 
 ### Cajamar, SP
